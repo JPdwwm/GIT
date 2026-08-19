@@ -1,0 +1,15 @@
+.title {
+    background-color: red;
+    justify-content: center;
+    text-align: center;
+}
+
+ul{
+    justify-content: space-between;
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    margin: 10px 0;
+}
